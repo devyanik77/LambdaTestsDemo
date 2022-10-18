@@ -1,0 +1,18 @@
+{
+  "name": "lambdatestsdemo",
+  "version": "1.0.0",
+  "description": "CucumberJS Tutorial for Selenium JavaScript Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^106.0.1",
+    "cucumber": "^6.0.7"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.5.0"
+  }
+}
